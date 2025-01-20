@@ -39,4 +39,5 @@ You can simply download or clone this repository to use the project on your loca
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/your-username/palindrome_checker.git
+git clone [https://github.com/your-username/palindrome_checker.git](https://github.com/MduduziNdlovu-dev/palindrome_checker.git)
+
